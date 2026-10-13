@@ -1,2 +1,2 @@
-# nano_MLHMLH hackathon project
+# nano_MLH
 MLH hackathon project
